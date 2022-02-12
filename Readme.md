@@ -45,7 +45,21 @@
 ### Other services
 
 
+1. Infrastructure
+   1. Amazon CloudFront: CDN with edge location.
+   2. AWS Elastic Beanstalk: is an easy-to-use service for deploying and scaling web applications and services on familiar servers such as Apache, Nginx, Passenger, and IIS.
+   3. AWS CloudFormation: lets you model, provision, and manage AWS and third-party resources by treating infrastructure as code.
+2. Networking
+   1. Amazon VPC: Virtual Private Cloud enables you to provision an isolated section of the AWS Cloud.
+   2. Subnet: is a section of a VPC that can contain resources such as Amazon EC2 instances.
+   
+   ![alt text](./resources/Q_HnMl_BAEsDZGxf_NEblbQjD0vn0-pPU.png "VPC")
 
-1. Amazon CloudFront: CDN with edge location.
-2. AWS Elastic Beanstalk:
-3. AWS CloudFormation: 
+   3. Virtual private gateway: enables you to establish a virtual private network (VPN) connection between your VPC and a private network, such as an on-premises data center or internal corporate network.
+   4. AWS Direct Connect: service that enables you to establish a dedicated private connection between your data center and a VPC. 
+   5. Stateless and allows all inbound and outbound traffic.
+   6. stateful and deny
+   7. Amazon Route 53: DNS web service.
+
+
+3. s
