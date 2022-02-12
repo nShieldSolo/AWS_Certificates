@@ -42,6 +42,14 @@
    
 
 
+### Database & Storage
+
+
+
+1. Amazon Elastic Block Store (Amazon EBS) 
+
+
+
 ### Other services
 
 
