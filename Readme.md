@@ -116,6 +116,25 @@
 
 
 
+### Pricing & Supports
+
+
+
+1. AWS Free Tier
+   1. Always Free
+   2. 12 months Free: free for 12 months
+   3. Trials: Short-term free trial offers
+2. Pricing
+   1. <span style="color:Orange">**AWS Pricing Calculator**</span>: explore aws services and create estimate for the costs of your use cases on AWS.
+   2. <span style="color:Green">**AWS Billing & Cost Management dashboard**</span>: pay your AWS bill, monitor your usage, and analyze and control your costs.
+   3. <span style="color:pink">**Consolidated billing**</span>: enables you to manage multiple AWS accounts from a central location. Support AWS Orgitization.
+   4. <span style="color:red">**AWS Budgets**</span>: create **budgets to plan your service usage, service costs, and instance reservations**.
+   5. <span style="color:purple">**AWS Cost Explorer**</span>: enables you to visualize, understand, and manage your AWS costs and usage over time. AWS Cost Explorer **includes a default report of the costs and usage for your top five cost-accruing AWS services**.
+
+
+
+
+
 ### Others services
    1. AWS DMS (AWS Database Migration Service): enables you to migrate relational databases, nonrelational databases, and other types of data stores.
    2. Amazon SNS (Amazon Simple Notification Service): is queue.
