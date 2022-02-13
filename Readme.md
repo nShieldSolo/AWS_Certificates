@@ -191,10 +191,7 @@
 
 
 
-
-
 ### Others services
-
 
 
 
@@ -207,3 +204,9 @@
    6. Amazon CloudTrail: **records API** calls for your account.
    7. Amazon Trusted Advisor: **provide best practices** in five categories: cost optimization, performance, security, fault tolerance, and service limits.
    8. Amazon MFA: Multi-Factor Authentication (MFA) is a simple best practice that adds an extra layer of protection on top of your user name and password.
+   9. AWS Snow Family: collection of physical devices that help to physically transport up to exabytes of data into and out of AWS
+      1.  AWS Snowcone: is small 2CPUs, 4Gb of memory and 8TB of usable.
+      2.  AWS Snowball offer 2 types
+          1. Snowball Edge Storage Optimized: 80TB of hard disk, 40 vCPU & 80 GiB of memory
+          2. Snowball Edge Compute Optimized: 42TB of hard disk, 52 vCPU & 20880 GiB of memory
+      3.  AWS Snowmobile: 100 petabytes of data per Snowmobile, a 45-foot long ruggedized shipping container
