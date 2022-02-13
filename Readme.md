@@ -144,8 +144,53 @@
 
 
 
+### Migration and innovation
+
+
+
+
+1. Cloud Adoption: AWS Cloud Adoption Framework (AWS CAF) **organizes guidance into six areas** of focus, called Perspectives (quan điểm).
+   1. Business: ensures that IT aligns with **business** needs and that IT investments link to key business results.
+      1. Business
+      2. Finance
+      3. Budget
+      4. Strategy
+   2. People: supports development of an  **organization-wide** change management strategyfor successful cloud adoption
+      1. Human resources
+      2. Staffing
+      3. People managers
+   3. Governance (Quản trị): understand how to **update the staff skills and processes necessary to ensure business** governance in the cloud
+      1. Chief Infomation Officer (CIO)
+      2. Program Manager
+      3. Enterprise architects
+      4. Business analysts
+      5. Portfolio managers
+   4. Platform Perspective: Use a variety of **architectural** models to understand and communicate the structure of IT systems and their relationships.
+      1. Chief Technology Officer (CTO)
+      2. IT Manager
+      3. Solution Architects
+   5. Security
+      1. Chief Infomation Security Officer (CISO)
+      2. IT Security manager
+      3. IT security analysts
+   6. Operations: helps you to enable, run, use, operate, and recover IT workloads to the level agreed upon with your business stakeholders
+      1. IT Operations managers
+      2. IT Support managers
+
+
+   7. 
+2. Migration
+
+
+
+
 
 ### Others services
+
+
+
+
+
    1. AWS DMS (AWS Database Migration Service): enables you to migrate relational databases, nonrelational databases, and other types of data stores.
    2. Amazon SNS (Amazon Simple Notification Service): is queue.
    3. AWS Artifact: is a service that provides **on-demand access to AWS security and compliance reports and select online agreements**.
