@@ -130,6 +130,16 @@
    3. <span style="color:pink">**Consolidated billing**</span>: enables you to manage multiple AWS accounts from a central location. Support AWS Orgitization.
    4. <span style="color:red">**AWS Budgets**</span>: create **budgets to plan your service usage, service costs, and instance reservations**.
    5. <span style="color:purple">**AWS Cost Explorer**</span>: enables you to visualize, understand, and manage your AWS costs and usage over time. AWS Cost Explorer **includes a default report of the costs and usage for your top five cost-accruing AWS services**.
+3. Support
+   1. Basic
+      1. AWS Personal Health Dashboard
+      2. Limited selection of AWS Trusted Advisor checks.
+   2. Business Support
+      3. All AWS Trusted Advisor checks
+      4. Limited support for third-party software
+      5. Guidance to identify AWS offerings, features, and services that can best support your specific needs
+   3. Enterprise Support
+      1. Technical Account Manager
 
 
 
