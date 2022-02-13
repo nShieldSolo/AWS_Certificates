@@ -178,8 +178,16 @@
       2. IT Support managers
 
 
-   7. 
+
+
 2. Migration
+   1. Rehosting: lift-and-shift involves **moving applications without changes**.
+   2. Replatforming: lift, tinker, and shift -> optimizations to realize a tangible (hữu hình) benefit, without changing the core architecture of the application.
+   3. Refactoring/re-architecting: re-architecting
+   4. Repurchasing: Repurchasing involves moving from a traditional license to a software-as-a-service model
+   5. Retaining: might include applications that require major refactoring before they can be migrated, or, work that can be postponed until a later time.
+   6. Retiring: remove applications.
+
 
 
 
