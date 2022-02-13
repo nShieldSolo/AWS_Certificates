@@ -37,7 +37,7 @@
    4. Glacier [Sông băng]
       1. <span style="color:pink">**Glacier Instant Retrieval**</span>: can save up to 68% on storage costs compared to using the S3 Standard-Infrequent Access (S3 Standard-IA) storage class, **when your data is accessed once per quarter**.
       2. <span style="color:green">**S3 Glacier Flexible Retrieval** (S3 Glacier) </span>: up to 10% lower cost (than S3 Glacier Instant Retrieval), for archive **data that is accessed 1—2 times per year and is retrieved asynchronously**.
-      3. <span style="color:green">**S3 Glacier Deep Archive**</span> : is Amazon S3’s lowest-cost storage class designed for long-term retention of data that will be retained for 7-10 years. Retrieval time within 12 hours.
+      3. <span style="color:red">**S3 Glacier Deep Archive**</span> : is Amazon S3’s lowest-cost storage class designed for long-term retention of data that will be retained for 7-10 years. Retrieval time within 12 hours.
       4. S3 Outposts: Amazon S3 on Outposts delivers object storage to your on-premises AWS Outposts environment.
    
 
@@ -45,9 +45,20 @@
 ### Database & Storage
 
 
-
-1. Amazon Elastic Block Store (Amazon EBS) 
-
+1. Storage
+   1. Amazon Elastic Block Store (Amazon EBS): temporary block-level storage for an Amazon EC2 instance.
+   2. EBS snapshot is an incremental backup.
+   3. Amazone EFS (file storage): is ideal for use cases in which a large number of services and resources need to access the same data at the same time.
+   4. EBS volume stores data in **a single available zone** and **multiple available zones** for Amazon EFS.
+2. Database
+   1. <span style="color:pink">**Amazon RDS** [Relational Database Service]</span> : service that enables you to run **relational databases** in the AWS Cloud.
+   2. <span style="color:green">**Amazon Aurora** </span>: enterprise-class relational database. It is **compatible with MySQL and PostgreSQL relational databases**.
+   3. <span style="color:Orange">**Amazon DynamicDB** </span>: a nonrelational database.
+   4. <span style="color:red">**Amazon Redshift**</span> : is a data warehousing service.
+   5. **Amazon DocumentDB** : is a document database service that supports MongoDB workloads.
+   6. **Amazon ElastiCache** : is a service that adds caching layers on top of your databases to help improve the read times of common requests. 
+   7. **Amazon DynamoDB Accelerator** (DAX): is an in-memory cache for DynamoDB.
+   8. **Amazon Neptune**: Amazon Neptune is a graph database service.
 
 
 ### Other services
@@ -68,6 +79,7 @@
    5. Stateless and allows all inbound and outbound traffic.
    6. stateful and deny
    7. Amazon Route 53: DNS web service.
-
-
-3. s
+   
+3. Other
+   1. AWS DMS (AWS Database Migration Service) enables you to migrate relational databases, nonrelational databases, and other types of data stores.
+   2. 
