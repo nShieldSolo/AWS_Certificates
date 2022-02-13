@@ -153,4 +153,4 @@
    5. <span style="color:Orange">**Amazon CloudWatch**</span>: enables you to **monitor and manage various metrics and configure alarm actions** based on data from those metrics
    6. Amazon CloudTrail: **records API** calls for your account.
    7. Amazon Trusted Advisor: **provide best practices** in five categories: cost optimization, performance, security, fault tolerance, and service limits.
-   8. Amazon 
+   8. Amazon MFA: Multi-Factor Authentication (MFA) is a simple best practice that adds an extra layer of protection on top of your user name and password.
