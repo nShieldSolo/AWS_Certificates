@@ -61,7 +61,7 @@
    8. **Amazon Neptune**: Amazon Neptune is a graph database service.
 
 
-### Other services
+### Infrastructure & Networking
 
 
 1. Infrastructure
@@ -76,10 +76,41 @@
 
    3. Virtual private gateway: enables you to establish a virtual private network (VPN) connection between your VPC and a private network, such as an on-premises data center or internal corporate network.
    4. AWS Direct Connect: service that enables you to establish a dedicated private connection between your data center and a VPC. 
-   5. Stateless and allows all inbound and outbound traffic.
-   6. stateful and deny
+   5. **Stateless and allows** all inbound and outbound traffic.
+   6. **stateful and deny**.
    7. Amazon Route 53: DNS web service.
-   
-3. Other
+
+
+
+### Responsibility & Security
+
+
+
+1. Responsibility
+   1. AWS responsibilities: **AWS operates, manages, and controls the components at all layers of infrastructure**.
+      1. Physical security
+      2. Hardware and software infrastructure
+      3. Network infrastructure
+      4. Virtualization infrastructure
+   2. Customer responsibilities: remaining.
+
+   ![alt text](./resources/sIlyltjk4kwKozZ1_eyqltDSWURM2V1xC.png "Responsibility")
+
+
+
+2. Security
+   1. IAM (AWS Identity and Access Management): enables you to manage access to AWS services and resources securely.
+      1. IAM users: is an identity that you create in AWS
+      2. IAM policies: is a document that allows or denies permissions to AWS services and resources.
+      3. IAM groups: is a collection of IAM users.
+      4. IAM roles: is an identity that you can assume to gain temporary access to permissions.
+   2. Organizations
+      1. AWS Organizations: Suppose that your company has multiple AWS accounts.
+      2. SCPs (service control policies): enable you to place restrictions on the AWS services, resources, and individual API actions that users and roles in each account can access.
+
+
+
+
+### Other
    1. AWS DMS (AWS Database Migration Service) enables you to migrate relational databases, nonrelational databases, and other types of data stores.
-   2. 
+   2. Amazon SNS (Amazon Simple Notification Service): is queue.
