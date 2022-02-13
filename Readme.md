@@ -1,15 +1,14 @@
 ---
-title: AWS Certified Cloud Practitioner
-editor: Ho Thanh Nam
-date: 12/02/2022
+Title: AWS Certified Cloud Practitioner
+Editor: Ho Thanh Nam
+Date: 12/02/2022
 ---
-
 
 
 # AWS Certified Cloud Practitioner
 
 
-## 1. Danh sách các dịch vụ cơ bản của AWS
+## 1. Danh sách các nhóm dịch vụ cơ bản của AWS
 
 
 ------------------------------
