@@ -107,10 +107,21 @@
    2. Organizations
       1. AWS Organizations: Suppose that your company has multiple AWS accounts.
       2. SCPs (service control policies): enable you to place restrictions on the AWS services, resources, and individual API actions that users and roles in each account can access.
+   3. Protects Services
+      1. AWS Shield: protects applications against DDoS attacks.
+      2. AWS WAF: is web application firewall.
+      3. AWS KMS (Key Management Service): like hsm.
+      4. Amazon GuardDuty: service that provides intelligent threat detection (phát hiện mối đe dọa) for your AWS infrastructure and resources. It identifies threats by continuously monitoring the network activity and account behavior within your AWS environment
 
 
 
 
-### Other
-   1. AWS DMS (AWS Database Migration Service) enables you to migrate relational databases, nonrelational databases, and other types of data stores.
+### Others services
+   1. AWS DMS (AWS Database Migration Service): enables you to migrate relational databases, nonrelational databases, and other types of data stores.
    2. Amazon SNS (Amazon Simple Notification Service): is queue.
+   3. AWS Artifact: is a service that provides **on-demand access to AWS security and compliance reports and select online agreements**.
+   4. Amazon Inspector: helps to improve the security and compliance of applications by running automated security assessments.
+   5. <span style="color:Orange">**Amazon CloudWatch**</span>: enables you to **monitor and manage various metrics and configure alarm actions** based on data from those metrics
+   6. Amazon CloudTrail: **records API** calls for your account.
+   7. Amazon Trusted Advisor: **provide best practices** in five categories: cost optimization, performance, security, fault tolerance, and service limits.
+   8. Amazon 
