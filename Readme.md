@@ -1,3 +1,11 @@
+---
+title: AWS Certified Cloud Practitioner
+editor: Ho Thanh Nam
+date: 12/02/2022
+---
+
+
+
 # AWS Certified Cloud Practitioner
 
 
