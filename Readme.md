@@ -65,19 +65,19 @@ Date: 12/02/2022
    5. **Amazon DocumentDB** : is a document database service that supports MongoDB workloads.
    6. **Amazon ElastiCache** : is a service that adds caching layers on top of your databases to help improve the read times of common requests. 
    7. **Amazon DynamoDB Accelerator** (DAX): is an in-memory cache for DynamoDB.
-   8. **Amazon Neptune**: Amazon Neptune is a graph database service.
+   8. **Amazon Neptune**: Amazon Neptune is **a graph** database service.
 
 
 ### Infrastructure & Networking
 
 
 1. Infrastructure
-   1. Amazon CloudFront: CDN with edge location.
-   2. AWS Elastic Beanstalk: is an easy-to-use service for deploying and scaling web applications and services on familiar servers such as Apache, Nginx, Passenger, and IIS.
-   3. AWS CloudFormation: lets you model, provision, and manage AWS and third-party resources by treating infrastructure as code.
+   1. **Amazon CloudFront**: CDN with edge location.
+   2. **AWS Elastic Beanstalk**: is an easy-to-use service for deploying and scaling web applications and services on familiar servers such as Apache, Nginx, Passenger, and IIS.
+   3. **AWS CloudFormation**: lets you model, provision, and manage AWS and third-party resources by treating infrastructure as code.
 2. Networking
-   1. Amazon VPC: Virtual Private Cloud enables you to provision an isolated section of the AWS Cloud.
-   2. Subnet: is a section of a VPC that can contain resources such as Amazon EC2 instances.
+   1. **Amazon VPC**: Virtual Private Cloud enables you to provision an isolated section of the AWS Cloud.
+   2. **Subnet**: is a section of a VPC that can contain resources such as Amazon EC2 instances.
    
    ![alt text](./resources/Q_HnMl_BAEsDZGxf_NEblbQjD0vn0-pPU.png "VPC")
 
